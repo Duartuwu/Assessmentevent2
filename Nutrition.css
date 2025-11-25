@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+  border: 4px solid black;
+}
+
+.Page2 {
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  gap: 80px;
+  border: 5px solid white;
+}
+
+a {
+  color: black;
+}
+
+.Header {
+  text-align: center;
+}
+
+.Info {
+  margin: 4px;
+}
+
+.content {
+  border: 2px solid black;
+  margin-top: 16px;
+  display: flex;
+  gap: 20px;
+}
+
+.Final {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 75px;
+}
